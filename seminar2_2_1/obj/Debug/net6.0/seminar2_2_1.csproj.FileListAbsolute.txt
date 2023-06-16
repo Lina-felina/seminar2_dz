@@ -1,0 +1,15 @@
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\bin\Debug\net6.0\seminar2_2_1.exe
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\bin\Debug\net6.0\seminar2_2_1.deps.json
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\bin\Debug\net6.0\seminar2_2_1.runtimeconfig.json
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\bin\Debug\net6.0\seminar2_2_1.dll
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\bin\Debug\net6.0\seminar2_2_1.pdb
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.csproj.AssemblyReference.cache
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.AssemblyInfoInputs.cache
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.AssemblyInfo.cs
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.csproj.CoreCompileInputs.cache
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.dll
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\refint\seminar2_2_1.dll
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.pdb
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\seminar2_2_1.genruntimeconfig.cache
+C:\Users\bor1\Desktop\ОБУЧЕНИЕ\С#\sem2\seminar2_2_1\obj\Debug\net6.0\ref\seminar2_2_1.dll
